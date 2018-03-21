@@ -10,6 +10,6 @@
 
 <div class="container" role="main">
 
-    <p class="lead">Les dernières actualités ... pouet</p>
+    <p class="lead">Les dernières actualités ... pouet pouet pouet</p>
 
 </div>
